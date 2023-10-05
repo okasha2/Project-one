@@ -400,6 +400,11 @@ flex-wrap:wrap;
 }
 /* End about */
 /* Start contact */
+
+.contact {
+  background-color: #fbfbfb;
+}
+
 .contact h1{
   margin-bottom: 0;
 }
